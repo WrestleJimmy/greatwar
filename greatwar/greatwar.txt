@@ -1,0 +1,8 @@
+
+"greatwar"
+{
+	"base" 			"helix"
+	"title" 		"Great War Test"
+	"author" 		"Jim"
+	"menusystem"	"1"
+}
