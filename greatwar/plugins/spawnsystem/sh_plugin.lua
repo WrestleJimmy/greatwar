@@ -5,7 +5,7 @@ PLUGIN.description = "Team-based spawn point entities and respawn handling."
 print("[SPAWN] sh_plugin.lua loaded on", SERVER and "SERVER" or "CLIENT")
 
 if SERVER then
-    AddCSLuaFile("cl_deathscreen.lua")
+    AddCSLuaFile("cl_plugin.lua")
     util.AddNetworkString("ixSpawnChoice")
 end
 
