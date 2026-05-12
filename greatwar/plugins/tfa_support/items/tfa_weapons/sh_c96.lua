@@ -1,7 +1,7 @@
 ITEM.name = "Mauser Pistole C.96"
 ITEM.description = "The 'Broomhandle' — a forward-magazined semi-auto pistol favored by officers, adventurers, and cavalry."
-ITEM.model = "models/weapons/w_mauser_c96.mdl"
-ITEM.width = 3
+ITEM.model = "models/ironeurope/c96.mdl"
+ITEM.width = 2
 ITEM.height = 1
 ITEM.iconCam = {
     pos = Vector(0, 60, 0),

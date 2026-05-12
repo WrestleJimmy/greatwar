@@ -4,9 +4,9 @@ ITEM.model = "models/weapons/w_kar98az_remake.mdl"
 ITEM.width = 3
 ITEM.height = 1
 ITEM.iconCam = {
-    pos = Vector(0, 200, 0),
-    ang = Angle(0.02, 271.01, 0),
-    fov = 16.08
+    pos = Vector(-8.23, 200.2, -2.57),
+    ang = Angle(-0.73, 272.53, 0),
+    fov = 14.87
 }
 
 ITEM.class = "tfa_gwsr_kar98az"

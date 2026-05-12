@@ -4,9 +4,9 @@ ITEM.model = "models/weapons/w_ww1_k88.mdl"
 ITEM.width = 3
 ITEM.height = 1
 ITEM.iconCam = {
-    pos = Vector(0, 200, 0),
-    ang = Angle(0.02, 271.01, 0),
-    fov = 16.08
+    pos = Vector(7.03, 200.04, -1.17),
+    ang = Angle(-0.32, 267.19, 0),
+    fov = 11.97
 }
 
 ITEM.class = "tfa_gwsr_kar88"

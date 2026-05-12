@@ -5,8 +5,8 @@ ITEM.width = 4
 ITEM.height = 1
 ITEM.iconCam = {
     pos = Vector(0, 200, 0),
-    ang = Angle(-0.02, 269.97, 0),
-    fov = 13.18
+    ang = Angle(0, 270.64, 0),
+    fov = 15.04
 }
 
 ITEM.class = "tfa_gwsr_enfield_p14"

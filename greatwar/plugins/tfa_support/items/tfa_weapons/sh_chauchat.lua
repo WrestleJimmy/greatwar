@@ -4,10 +4,11 @@ ITEM.model = "models/weapons/w_chauchat_1915.mdl"
 ITEM.width = 5
 ITEM.height = 2
 ITEM.iconCam = {
-    pos = Vector(0, 200, 0),
-    ang = Angle(0, 270, 0),
-    fov = 18
+    pos = Vector(-4.56, -200.04, 14.65),
+    ang = Angle(2.06, 448.07, 0),
+    fov = 12.04
 }
+
 
 ITEM.class = "tfa_gwswe_chauchat"
 ITEM.weaponCategory = "Primary"

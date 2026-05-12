@@ -4,10 +4,11 @@ ITEM.model = "models/weapons/w_verdun_madsen.mdl"
 ITEM.width = 5
 ITEM.height = 2
 ITEM.iconCam = {
-    pos = Vector(0, 200, 0),
-    ang = Angle(0, 270, 0),
-    fov = 18
+    pos = Vector(-0.69, 199.99, 0),
+    ang = Angle(-0.83, 273.69, 0),
+    fov = 17.69
 }
+
 
 ITEM.class = "tfa_gwswe_madsen_german"
 ITEM.weaponCategory = "Primary"

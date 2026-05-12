@@ -4,10 +4,11 @@ ITEM.model = "models/weapons/w_verdun_g98.mdl"
 ITEM.width = 4
 ITEM.height = 1
 ITEM.iconCam = {
-    pos = Vector(0, 200, 0),
-    ang = Angle(0.02, 271.01, 0),
-    fov = 16.08
+    pos = Vector(-3.25, 199.94, 0),
+    ang = Angle(-0.05, 271.8, 0),
+    fov = 16.76
 }
+
 ITEM.class = "tfa_gwsr_gewehr_98"
 ITEM.weaponCategory = "Primary"
 

@@ -1,6 +1,6 @@
 ITEM.name = "Webley Mk. IV"
-ITEM.description = "A top-break .455 revolver of late-Victorian vintage. Old, but it kicks like a mule and works wet."
-ITEM.model = "models/weapons/w_webley_mk6.mdl"
+ITEM.description = "A top-break .455 revolver of late-Victorian vintage. Old, but it kicks like a mule and works wet. (Uses Fosbery World Model in Inventory)"
+ITEM.model = "models/weapons/w_webley_fosbery.mdl"
 ITEM.width = 2
 ITEM.height = 1
 ITEM.iconCam = {

@@ -1,6 +1,6 @@
 ITEM.name = "Webley Mk. VI"
-ITEM.description = "The British Empire's apex service revolver — a thunderous .455 sidearm issued from Flanders to Mesopotamia."
-ITEM.model = "models/weapons/w_webley_mk6.mdl"
+ITEM.description = "The British Empire's apex service revolver — a thunderous .455 sidearm issued from Flanders to Mesopotamia. (Uses Fosbery World Model in Inventory)"
+ITEM.model = "models/weapons/w_webley_fosbery.mdl"
 ITEM.width = 2
 ITEM.height = 1
 ITEM.iconCam = {
